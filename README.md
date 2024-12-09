@@ -10,5 +10,5 @@ This is a very basic PAMGuard tutorial which will introduce you to the following
 
 The tutorial uses pre recorded sound files from a number of sources. These are played back 
 through PAMGuard, which processes the data in exactly the same way as it would were the 
-data being acquired in real time. However, you MUST have a working sound card on your system
-or the files will process at many times real time and you won't be able to see what's happening.
+data being acquired in real time. However, you should ideally have a working sound card on
+your system so that you can hear the sounds as well as see the detections.
